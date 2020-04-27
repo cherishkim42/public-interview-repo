@@ -1,0 +1,17 @@
+ASSIGNMENT 4
+
+You're given this problem at a technical interview.
+
+Rotate a given linked list counter-clockwise by k nodes, where k is a given integer.
+
+Questions:
+
+1. What clarifying questions would you ask?
+
+2. What reasonable assumptions could you state?
+
+3. What are 2-3 ways you can simplify the problem?
+
+4. Brainstorm 2-3 ways to approach the problem.
+
+5. Choose one idea and write pseudocode for it.
